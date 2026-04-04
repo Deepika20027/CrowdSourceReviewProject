@@ -1,7 +1,7 @@
 # CrowdSourceReviewProject
 A full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js) that allows users to explore, review, and rate local businesses such as restaurants, shops, and services.
 
-🚀 Features 
+🚀 Features :
 
 🔍 Browse businesses by category and view detailed information
 
