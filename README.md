@@ -7,7 +7,8 @@ A full-stack web application built using the MERN stack (MongoDB, Express, React
 🔐 Secure user authentication using JWT
 🧑‍💼 Admin panel to approve/reject reviews before publishing
 📊 Dynamic rating aggregation for each business
-⚡ Responsive and interactive frontend built with React
+⚡ Responsive and interactive frontend built with React//
+
 ⚙️ Tech Stack
 Frontend: React.js
 Backend: Node.js, Express.js
